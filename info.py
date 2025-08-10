@@ -72,7 +72,7 @@ IS_VERIFY = is_enabled("IS_VERIFY", True)
 # ---------------------------------------------------------------
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/+fuhw3bZ97NgxMzE1")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/+fuhw3bZ97NgxMzE1")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/+fuhw3bZ97NgxMzE1")
 VERIFY_IMG = environ.get(
     "VERIFY_IMG", "https://files.catbox.moe/8ustvt.jpg"
 )
